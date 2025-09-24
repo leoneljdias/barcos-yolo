@@ -2,6 +2,8 @@
 
 This project is an experimental implementation for running object detection on videos using [SAHI](https://github.com/obss/sahi) and [YOLO RTDETR-X](https://docs.ultralytics.com/pt/models/rtdetr/#usage-examples) from [Ultralytics](https://ultralytics.com/).
 
+<img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/99f81c86-a692-4258-89ee-2858f8353378" />
+
 ## Features
 
 - Runs inference on video files

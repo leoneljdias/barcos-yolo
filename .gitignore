@@ -1,0 +1,9 @@
+rtdetr-x.pt
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.envrc
+*.log
